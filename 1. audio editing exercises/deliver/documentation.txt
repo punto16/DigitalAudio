@@ -1,0 +1,4 @@
+1. I removed, in the espectrum graph, the noise that seem of the relad.
+2. I copied the sound to another track, the original left sound only, the copied one right sound only, and moved the right a little bit to  create the stereo effect.
+3. First, I copied the original to another track and change its speed to the desired one, then, to avoid another effects to appear, i modified the original one, adding empty spaces between the real noise and the start of the new sound rate
+4. I thought a laser sound would be great for this gun so I added it, then i added a sound when u turn on/off the light switch, modifing it speeding it up a little bit and removing the silences between each switch sound increasing the rate. Finally I added a "ping" effect which I reverbit a little bit and added a 2nd ping with lowered volume.
