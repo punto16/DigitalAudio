@@ -16323,6 +16323,14 @@ PrefabInstance:
       propertyPath: jumpPower
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 11400024, guid: 69c3ed15e9d13481e8f7dc4db5532fb6, type: 3}
+      propertyPath: dragForce
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400024, guid: 69c3ed15e9d13481e8f7dc4db5532fb6, type: 3}
+      propertyPath: dynamicRatio
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 11400112, guid: 69c3ed15e9d13481e8f7dc4db5532fb6, type: 3}
       propertyPath: isWindActive
       value: 0
