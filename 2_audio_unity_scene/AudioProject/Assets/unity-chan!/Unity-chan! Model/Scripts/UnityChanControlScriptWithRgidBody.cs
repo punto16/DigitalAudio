@@ -87,7 +87,6 @@ namespace UnityChan
 			//以下のvの閾値は、Mecanim側のトランジションと一緒に調整する
 			if (v > 0.1) {
 				velocity *= forwardSpeed;       // 移動速度を掛ける
-				PlayFootstepSound();
 			} else if (v < -0.1) {
 				velocity *= backwardSpeed;	// 移動速度を掛ける
 			}
