@@ -6,9 +6,10 @@
 using UnityEngine;
 using System.Collections;
 
+
 namespace UnityChan
 {
-// 必要なコンポーネントの列記
+	// 必要なコンポーネントの列記
 	[RequireComponent(typeof(Animator))]
 	[RequireComponent(typeof(CapsuleCollider))]
 	[RequireComponent(typeof(Rigidbody))]
@@ -85,7 +86,8 @@ namespace UnityChan
 			velocity = transform.TransformDirection (velocity);
 			//以下のvの閾値は、Mecanim側のトランジションと一緒に調整する
 			if (v > 0.1) {
-				velocity *= forwardSpeed;		// 移動速度を掛ける
+				velocity *= forwardSpeed;       // 移動速度を掛ける
+				PlayFootstepSound();
 			} else if (v < -0.1) {
 				velocity *= backwardSpeed;	// 移動速度を掛ける
 			}
