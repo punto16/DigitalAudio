@@ -38,7 +38,7 @@ public class MusicChange : MonoBehaviour
                 break;
 
             case "Indoor":
-                calmSnapshot.TransitionTo(slowTransitionTime);
+                baseSnapshot.TransitionTo(slowTransitionTime);
                 break;
 
             default:

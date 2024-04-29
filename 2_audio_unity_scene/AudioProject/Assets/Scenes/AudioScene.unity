@@ -2531,8 +2531,8 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 1209359247304952, guid: c9fc122e3f8d06d43a1eb4f5ac1238cc, type: 3}
   m_PrefabInstance: {fileID: 468718538}
   m_PrefabAsset: {fileID: 0}
---- !u!65 &303110259
-BoxCollider:
+--- !u!64 &303110261
+MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -2546,12 +2546,13 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 10.93, y: 8, z: 10.53}
-  m_Center: {x: 2.08, y: 4, z: 0.23}
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300002, guid: 51906343696809a49badb038b87b3acc, type: 3}
 --- !u!1001 &309526054
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2764,7 +2765,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1890650327710218, guid: f2d2c05f673efab46bbfa275f8aafe86, type: 3}
       propertyPath: m_TagString
-      value: Indoor
+      value: Wood
       objectReference: {fileID: 0}
     - target: {fileID: 4338421714171084, guid: f2d2c05f673efab46bbfa275f8aafe86, type: 3}
       propertyPath: m_RootOrder
@@ -2811,7 +2812,7 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 1890650327710218, guid: f2d2c05f673efab46bbfa275f8aafe86, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1457551297}
+      addedObject: {fileID: 1457551299}
   m_SourcePrefab: {fileID: 100100000, guid: f2d2c05f673efab46bbfa275f8aafe86, type: 3}
 --- !u!1001 &337273595
 PrefabInstance:
@@ -2942,7 +2943,7 @@ GameObject:
   - component: {fileID: 347774271}
   m_Layer: 0
   m_Name: WoodSoundCollider
-  m_TagString: Wood
+  m_TagString: Indoor
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4067,7 +4068,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1209359247304952, guid: c9fc122e3f8d06d43a1eb4f5ac1238cc, type: 3}
       propertyPath: m_TagString
-      value: Indoor
+      value: Wood
       objectReference: {fileID: 0}
     - target: {fileID: 4075882751740782, guid: c9fc122e3f8d06d43a1eb4f5ac1238cc, type: 3}
       propertyPath: m_RootOrder
@@ -4114,7 +4115,7 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 1209359247304952, guid: c9fc122e3f8d06d43a1eb4f5ac1238cc, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 303110259}
+      addedObject: {fileID: 303110261}
   m_SourcePrefab: {fileID: 100100000, guid: c9fc122e3f8d06d43a1eb4f5ac1238cc, type: 3}
 --- !u!4 &474297755 stripped
 Transform:
@@ -4603,112 +4604,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4945775876562746, guid: 92cc6d2406e4cc547a83ad74708c2d87, type: 3}
   m_PrefabInstance: {fileID: 1782571197}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &558302695
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 558302699}
-  - component: {fileID: 558302698}
-  - component: {fileID: 558302697}
-  - component: {fileID: 558302696}
-  m_Layer: 0
-  m_Name: Plane
-  m_TagString: Grass
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!64 &558302696
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 558302695}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
---- !u!23 &558302697
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 558302695}
-  m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 2
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_AdditionalVertexStreams: {fileID: 0}
---- !u!33 &558302698
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 558302695}
-  m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
---- !u!4 &558302699
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 558302695}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 533.04, y: 6.37, z: 360.69}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 8
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &563555134
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5226,7 +5121,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1890650327710218, guid: f2d2c05f673efab46bbfa275f8aafe86, type: 3}
       propertyPath: m_TagString
-      value: Indoor
+      value: Wood
       objectReference: {fileID: 0}
     - target: {fileID: 4338421714171084, guid: f2d2c05f673efab46bbfa275f8aafe86, type: 3}
       propertyPath: m_RootOrder
@@ -5273,7 +5168,7 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 1890650327710218, guid: f2d2c05f673efab46bbfa275f8aafe86, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1177896469}
+      addedObject: {fileID: 1177896471}
   m_SourcePrefab: {fileID: 100100000, guid: f2d2c05f673efab46bbfa275f8aafe86, type: 3}
 --- !u!1001 &649975330
 PrefabInstance:
@@ -5399,7 +5294,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1094540685274392, guid: 0af388c5f7d3fe8418aecd4b47e51d62, type: 3}
       propertyPath: m_TagString
-      value: Indoor
+      value: Wood
       objectReference: {fileID: 0}
     - target: {fileID: 1913766027601144, guid: 0af388c5f7d3fe8418aecd4b47e51d62, type: 3}
       propertyPath: m_IsActive
@@ -5446,7 +5341,7 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 1094540685274392, guid: 0af388c5f7d3fe8418aecd4b47e51d62, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1084946084}
+      addedObject: {fileID: 1084946086}
   m_SourcePrefab: {fileID: 100100000, guid: 0af388c5f7d3fe8418aecd4b47e51d62, type: 3}
 --- !u!1001 &673149199
 PrefabInstance:
@@ -5703,7 +5598,7 @@ GameObject:
   - component: {fileID: 693102943}
   m_Layer: 0
   m_Name: WoodSoundCollider
-  m_TagString: Wood
+  m_TagString: Indoor
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6971,6 +6866,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 39f0869c3496fdf4eaf8caf1e83e8a7a, type: 3}
   - {fileID: 8300000, guid: 830d40773e676974c9a81cb1cdb5cb4c, type: 3}
   material: 
+  walkTiming: 34
 --- !u!114 &795330478
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7873,7 +7769,7 @@ GameObject:
   - component: {fileID: 865549585}
   m_Layer: 0
   m_Name: WoodSoundCollider
-  m_TagString: Wood
+  m_TagString: Indoor
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8278,7 +8174,7 @@ GameObject:
   - component: {fileID: 921461593}
   m_Layer: 0
   m_Name: WoodSoundCollider
-  m_TagString: Wood
+  m_TagString: Indoor
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9105,8 +9001,8 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 1115243158249834, guid: cb181bc6c302bca40929333077286a04, type: 3}
   m_PrefabInstance: {fileID: 1865656475}
   m_PrefabAsset: {fileID: 0}
---- !u!65 &1031783883
-BoxCollider:
+--- !u!64 &1031783885
+MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -9120,12 +9016,13 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 24.6, y: 14.64, z: 16.24}
-  m_Center: {x: 0.44, y: 7.89, z: 0}
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 38c5861bb1a31a24dbcbf707968cf8d7, type: 3}
 --- !u!1001 &1042624952
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9547,8 +9444,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4472924558029580, guid: 0af388c5f7d3fe8418aecd4b47e51d62, type: 3}
   m_PrefabInstance: {fileID: 654112921}
   m_PrefabAsset: {fileID: 0}
---- !u!65 &1084946084
-BoxCollider:
+--- !u!64 &1084946086
+MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -9562,12 +9459,13 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 6.51, y: 8, z: 8.97}
-  m_Center: {x: 0, y: 4, z: 0}
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300002, guid: f0134f935023c6f489a93c49e9e4b348, type: 3}
 --- !u!1001 &1088114951
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10729,8 +10627,8 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 1890650327710218, guid: f2d2c05f673efab46bbfa275f8aafe86, type: 3}
   m_PrefabInstance: {fileID: 649772589}
   m_PrefabAsset: {fileID: 0}
---- !u!65 &1177896469
-BoxCollider:
+--- !u!64 &1177896471
+MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -10744,12 +10642,13 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 15.49, y: 8, z: 9.71}
-  m_Center: {x: 0, y: 4, z: 0.8}
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300002, guid: ccbb0b758f96c6a47894026914c2f637, type: 3}
 --- !u!4 &1191104137 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4868598521721778, guid: 5c11b6a454fa5fd458d541957f1de507, type: 3}
@@ -13618,8 +13517,8 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 1890650327710218, guid: f2d2c05f673efab46bbfa275f8aafe86, type: 3}
   m_PrefabInstance: {fileID: 324517030}
   m_PrefabAsset: {fileID: 0}
---- !u!65 &1457551297
-BoxCollider:
+--- !u!64 &1457551299
+MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -13633,12 +13532,13 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 15.49, y: 8, z: 9.71}
-  m_Center: {x: 0, y: 4, z: 0.8}
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300002, guid: ccbb0b758f96c6a47894026914c2f637, type: 3}
 --- !u!1001 &1459705214
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15155,8 +15055,8 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 1094540685274392, guid: 0af388c5f7d3fe8418aecd4b47e51d62, type: 3}
   m_PrefabInstance: {fileID: 1802650962}
   m_PrefabAsset: {fileID: 0}
---- !u!65 &1600109168
-BoxCollider:
+--- !u!64 &1600109170
+MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -15170,12 +15070,13 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 6.51, y: 8, z: 8.97}
-  m_Center: {x: 0, y: 4, z: 0}
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300002, guid: f0134f935023c6f489a93c49e9e4b348, type: 3}
 --- !u!1001 &1601101945
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15254,7 +15155,7 @@ GameObject:
   - component: {fileID: 1614770950}
   m_Layer: 0
   m_Name: WoodSoundCollider
-  m_TagString: Wood
+  m_TagString: Indoor
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15964,7 +15865,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1209359247304952, guid: c9fc122e3f8d06d43a1eb4f5ac1238cc, type: 3}
       propertyPath: m_TagString
-      value: Indoor
+      value: Wood
       objectReference: {fileID: 0}
     - target: {fileID: 4075882751740782, guid: c9fc122e3f8d06d43a1eb4f5ac1238cc, type: 3}
       propertyPath: m_RootOrder
@@ -16011,15 +15912,15 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 1209359247304952, guid: c9fc122e3f8d06d43a1eb4f5ac1238cc, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1731356569}
+      addedObject: {fileID: 1731356571}
   m_SourcePrefab: {fileID: 100100000, guid: c9fc122e3f8d06d43a1eb4f5ac1238cc, type: 3}
 --- !u!4 &1731356567 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4075882751740782, guid: c9fc122e3f8d06d43a1eb4f5ac1238cc, type: 3}
   m_PrefabInstance: {fileID: 1725775343}
   m_PrefabAsset: {fileID: 0}
---- !u!65 &1731356569
-BoxCollider:
+--- !u!64 &1731356571
+MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -16033,12 +15934,13 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 10.93, y: 8, z: 10.53}
-  m_Center: {x: 2.08, y: 4, z: 0.23}
+  serializedVersion: 5
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300002, guid: 51906343696809a49badb038b87b3acc, type: 3}
 --- !u!1001 &1734251708
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16719,7 +16621,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1094540685274392, guid: 0af388c5f7d3fe8418aecd4b47e51d62, type: 3}
       propertyPath: m_TagString
-      value: Indoor
+      value: Wood
       objectReference: {fileID: 0}
     - target: {fileID: 4472924558029580, guid: 0af388c5f7d3fe8418aecd4b47e51d62, type: 3}
       propertyPath: m_RootOrder
@@ -16766,7 +16668,7 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 1094540685274392, guid: 0af388c5f7d3fe8418aecd4b47e51d62, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1600109168}
+      addedObject: {fileID: 1600109170}
   m_SourcePrefab: {fileID: 100100000, guid: 0af388c5f7d3fe8418aecd4b47e51d62, type: 3}
 --- !u!4 &1806298518 stripped
 Transform:
@@ -17461,7 +17363,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1115243158249834, guid: cb181bc6c302bca40929333077286a04, type: 3}
       propertyPath: m_TagString
-      value: Indoor
+      value: Wood
       objectReference: {fileID: 0}
     - target: {fileID: 1226602129273896, guid: cb181bc6c302bca40929333077286a04, type: 3}
       propertyPath: m_IsActive
@@ -17544,7 +17446,7 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 1115243158249834, guid: cb181bc6c302bca40929333077286a04, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1031783883}
+      addedObject: {fileID: 1031783885}
   m_SourcePrefab: {fileID: 100100000, guid: cb181bc6c302bca40929333077286a04, type: 3}
 --- !u!1001 &1866130729
 PrefabInstance:
@@ -18217,7 +18119,7 @@ GameObject:
   - component: {fileID: 1938033974}
   m_Layer: 0
   m_Name: WoodSoundCollider
-  m_TagString: Wood
+  m_TagString: Indoor
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19096,7 +18998,7 @@ GameObject:
   - component: {fileID: 2014297637}
   m_Layer: 0
   m_Name: WoodSoundCollider
-  m_TagString: Wood
+  m_TagString: Tension
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
