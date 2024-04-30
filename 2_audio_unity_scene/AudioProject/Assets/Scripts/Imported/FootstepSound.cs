@@ -12,8 +12,6 @@ public class FootstepSound : MonoBehaviour
     private int walkTiming = 60;
 
     private int timer = 0;
-    private int jumpTimer = 0;
-    private bool jumping = false;
 
 
     void Update()
@@ -21,21 +19,7 @@ public class FootstepSound : MonoBehaviour
         float h = Input.GetAxis("Horizontal");
         float v = Input.GetAxis("Vertical");
 
-        if (Input.GetButtonDown("Jump"))
-        {
-            jumping = true;
-        }
-
-        if (jumping)
-        {
-            if (jumpTimer > 60)
-            {
-                jumping = false;
-                jumpTimer = 0;
-            }
-            jumpTimer++;
-        }
-        else if (v > 0.1 || v < -0.1)
+        if (v > 0.1 || v < -0.1)
         {
             if (timer > walkTiming)
             {
@@ -52,7 +36,8 @@ public class FootstepSound : MonoBehaviour
                     case "Wood":
                         myAudioSource.PlayOneShot(footstepsOnWood[Random.Range(0, footstepsOnWood.Length)]);
                         break;
-
+                    case "Jumping":
+                        break;
                     default:
                         break;
                 }
@@ -69,6 +54,22 @@ public class FootstepSound : MonoBehaviour
             case "Grass":
             case "Wood":
                 material = collision.gameObject.tag;
+                break;
+
+            default:
+                break;
+        }
+    }
+
+    private void OnCollisionExit(Collision collision)
+    {
+        switch (collision.gameObject.tag)
+        {
+            case "Grass":
+                material = "Jumping";
+                break;
+            case "Wood":
+                material = "Jumping";
                 break;
 
             default:
