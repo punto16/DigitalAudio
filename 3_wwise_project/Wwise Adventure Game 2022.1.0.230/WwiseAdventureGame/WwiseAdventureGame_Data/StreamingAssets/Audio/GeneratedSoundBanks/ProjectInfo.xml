@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo>
+	<Project Name="Wwise Adventure Game" GUID="{0405FE9F-22D5-41EF-B245-E5DC92910373}" Generator="2022.1.0.8070"/>
+	<CacheRoot>../../../../../Wwise Project/.cache</CacheRoot>
+	<Platforms>
+		<Platform Name="Android_High" GUID="{3A2ADE7D-434B-4CA0-A150-84DDDF1FECB2}" BasePlatform="Android" BasePlatformGUID="{A2D401DE-B8B6-4FEB-8142-137C34D507CA}" Path="../../../../GeneratedSoundBanks/Android_High"/>
+		<Platform Name="Android_Low" GUID="{13C102C2-F35C-4282-82D9-A5679C2005AC}" BasePlatform="Android" BasePlatformGUID="{A2D401DE-B8B6-4FEB-8142-137C34D507CA}" Path="../../../../GeneratedSoundBanks/Android_Low"/>
+		<Platform Name="iOS" GUID="{62583A05-2A25-4749-9F87-C2EEBBBFFA8E}" BasePlatform="iOS" BasePlatformGUID="{ECE03DB4-F948-462D-B2BB-A9173012B1F8}" Path="../../../../GeneratedSoundBanks/iOS"/>
+		<Platform Name="Mac" GUID="{9C6217D5-DD11-4795-87C1-6CE02853C541}" BasePlatform="Mac" BasePlatformGUID="{9C6217D5-DD11-4795-87C1-6CE02853C540}" Path="../../../../GeneratedSoundBanks/Mac"/>
+		<Platform Name="Windows" GUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EC}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="../../../../GeneratedSoundBanks/Windows"/>
+	</Platforms>
+	<Languages>
+		<Language Name="English(US)" Id="684519430" GUID="{25AC3366-CB08-43EC-B16C-0EEF0424A5C9}" Default="true" UseAsStandIn="true"/>
+	</Languages>
+	<FileHash>{7730595E-6862-B1C4-1421-30AB0A51F2C4}</FileHash>
+</ProjectInfo>

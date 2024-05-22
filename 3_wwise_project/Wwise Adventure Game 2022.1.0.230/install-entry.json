@@ -1,0 +1,59 @@
+{
+    "bundle": {
+        "id": "wag.v2022.1.230",
+        "type": "",
+        "name": "",
+        "tag": "",
+        "description": "",
+        "vendor": "",
+        "version": {
+            "year": 2022,
+            "major": 1,
+            "minor": "230",
+            "build": 0
+        },
+        "labels": [],
+        "links": [],
+        "productDependentData": {},
+        "documentation": [],
+        "displayName": " 2022.1.230.0",
+        "image": "",
+        "redistributables": [],
+        "eulas": [],
+        "groups": [],
+        "files": [],
+        "children": []
+    },
+    "targetDir": "C:\\Program Files (x86)\\Audiokinetic\\Wwise Adventure Game 2022.1.0.230",
+    "installType": "normal",
+    "parentId": null,
+    "installed": {
+        "groups": [
+            {
+                "id": "Packages",
+                "valueId": "WwiseProject"
+            },
+            {
+                "id": "Packages",
+                "valueId": "Binary"
+            },
+            {
+                "id": "OS",
+                "valueId": "Windows"
+            },
+            {
+                "id": "OS",
+                "valueId": "macOS"
+            }
+        ],
+        "files": [
+            "WwiseAdventureGame.WwiseProject.tar.xz",
+            "WwiseAdventureGame.Windows.tar.xz",
+            "WwiseAdventureGame.OfflineDocumentation.tar.xz"
+        ],
+        "date": 1715330874284
+    },
+    "sampleFiles": [],
+    "children": [],
+    "unpackedFiles": []
+}
