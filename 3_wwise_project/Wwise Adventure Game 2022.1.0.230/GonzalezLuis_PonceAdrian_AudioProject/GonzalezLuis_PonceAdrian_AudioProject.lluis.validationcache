@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="119">
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Virtual Acoustics\Factory Reflect Acoustic Textures.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Virtual Acoustics\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Triggers\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Switches\Player.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Switches\General.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Switches\Default Work Unit.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\States\Player.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\States\MusicStates.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\States\Default Work Unit.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\SoundBanks\Region.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\SoundBanks\General.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\SoundBanks\DLC.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\SoundBanks\Default Work Unit.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\SoundBanks\Context.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Queries\Factory Queries.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Queries\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Presets\Factory Spatial Audio.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Presets\Factory Reflect.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Presets\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Modulators\MIDI_Envelopes.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Modulators\Magic_Modulators.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Modulators\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Mixing Sessions\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Metadata\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Interactive Music Hierarchy\Other.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Interactive Music Hierarchy\Music.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\GonzalezLuis_PonceAdrian_AudioProject.wproj" DateLow="1717182355" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Game Parameters\SideChain.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Game Parameters\Player.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Game Parameters\Objects.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Game Parameters\Magic.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Game Parameters\Generic.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Game Parameters\Gameplay.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Game Parameters\Enemies.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Game Parameters\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Game Parameters\Ambient.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Events\UI.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Events\Quest.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Events\Player.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Events\Objects.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Events\NPCs.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Events\Music.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Events\Magic.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Events\Enemies.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Events\Destruction.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Events\Default Work Unit.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Events\Ambient.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Effects\Factory Reflect.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Effects\Factory Mastering Suite.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Effects\Factory Effects.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Effects\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Conversion Settings\UI.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Conversion Settings\Player.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Conversion Settings\Objects.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Conversion Settings\NPC.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Conversion Settings\Music.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Conversion Settings\Enemies.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Conversion Settings\Default Work Unit.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Conversion Settings\Ambient.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Control Surface Sessions\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Audio Devices\Default Work Unit.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Attenuations\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Attenuations\Ambient.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Actor-Mixer Hierarchy\UI.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Actor-Mixer Hierarchy\Player.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Actor-Mixer Hierarchy\Objects.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Actor-Mixer Hierarchy\Object_Props.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Actor-Mixer Hierarchy\Object_Destruction.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Actor-Mixer Hierarchy\NPCs.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Actor-Mixer Hierarchy\Instruments.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Actor-Mixer Hierarchy\Enemies_EvilSpitPlant.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Actor-Mixer Hierarchy\Enemies_EvilHead.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Actor-Mixer Hierarchy\Enemies_EvilCrawler.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Actor-Mixer Hierarchy\Enemies.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Actor-Mixer Hierarchy\Ambient.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Actor-Mixer Hierarchy\Ambiences_Emitters.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\Wwise Project\Actor-Mixer Hierarchy\Ambiences_Background.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Virtual Acoustics\Factory Reflect Acoustic Textures.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Virtual Acoustics\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Triggers\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Switches\Player.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Switches\General.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Switches\Default Work Unit.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\States\Player.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\States\MusicStates.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\States\Default Work Unit.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\SoundBanks\Region.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\SoundBanks\General.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\SoundBanks\DLC.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\SoundBanks\Default Work Unit.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\SoundBanks\Context.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Queries\Factory Queries.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Queries\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Presets\Factory Spatial Audio.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Presets\Factory Reflect.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Presets\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Modulators\MIDI_Envelopes.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Modulators\Magic_Modulators.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Modulators\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Mixing Sessions\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Metadata\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Interactive Music Hierarchy\Other.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Interactive Music Hierarchy\Music.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\GonzalezLuis_PonceAdrian_AudioProject.wproj" DateLow="1717182355" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Game Parameters\SideChain.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Game Parameters\Player.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Game Parameters\Objects.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Game Parameters\Magic.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Game Parameters\Generic.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Game Parameters\Gameplay.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Game Parameters\Enemies.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Game Parameters\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Game Parameters\Ambient.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Events\UI.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Events\Quest.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Events\Player.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Events\Objects.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Events\NPCs.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Events\Music.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Events\Magic.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Events\Enemies.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Events\Destruction.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Events\Default Work Unit.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Events\Ambient.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Effects\Factory Reflect.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Effects\Factory Mastering Suite.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Effects\Factory Effects.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Effects\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Conversion Settings\UI.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Conversion Settings\Player.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Conversion Settings\Objects.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Conversion Settings\NPC.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Conversion Settings\Music.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Conversion Settings\Enemies.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Conversion Settings\Default Work Unit.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Conversion Settings\Ambient.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Control Surface Sessions\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Audio Devices\Default Work Unit.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Attenuations\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Attenuations\Ambient.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Actor-Mixer Hierarchy\UI.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Actor-Mixer Hierarchy\Player.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Actor-Mixer Hierarchy\Objects.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Actor-Mixer Hierarchy\Object_Props.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Actor-Mixer Hierarchy\Object_Destruction.wwu" DateLow="1717180655" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Actor-Mixer Hierarchy\NPCs.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Actor-Mixer Hierarchy\Instruments.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Actor-Mixer Hierarchy\Enemies_EvilSpitPlant.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Actor-Mixer Hierarchy\Enemies_EvilHead.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Actor-Mixer Hierarchy\Enemies_EvilCrawler.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Actor-Mixer Hierarchy\Enemies.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Actor-Mixer Hierarchy\Ambient.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Actor-Mixer Hierarchy\Ambiences_Emitters.wwu" DateLow="1717180656" DateHigh="0"/>
+	<ValidationCacheItem File="D:\repos\Github\DigitalAudio\3_wwise_project\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_AudioProject\Actor-Mixer Hierarchy\Ambiences_Background.wwu" DateLow="1717180656" DateHigh="0"/>
+</ValidationCache>
