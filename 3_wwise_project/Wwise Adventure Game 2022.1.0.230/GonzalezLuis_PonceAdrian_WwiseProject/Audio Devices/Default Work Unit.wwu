@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F92583A1-B7DD-4270-B321-AEABF5BAD737}" SchemaVersion="119">
+	<AudioDevices>
+		<WorkUnit Name="Default Work Unit" ID="{F92583A1-B7DD-4270-B321-AEABF5BAD737}" PersistMode="Standalone">
+			<ChildrenList>
+				<AudioDevice Name="System" ID="{2C2400B1-F58D-428C-8262-966DFAD84976}" PluginName="System" CompanyID="0" PluginID="174" PluginType="7">
+					<PropertyList>
+						<Property Name="Allow3DAudio" Type="bool">
+							<ValueList>
+								<Value>True</Value>
+							</ValueList>
+						</Property>
+						<Property Name="MinSystemAudioObjectsRequired" Type="Uint16">
+							<ValueList>
+								<Value>16</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ObjectLists>
+						<ObjectList Name="Effects">
+							<Reference>
+								<Local>
+									<EffectSlot Name="" ID="{90E0E3EB-619A-438D-BAD0-557373627DBC}" ShortID="841080100"/>
+								</Local>
+							</Reference>
+							<Reference>
+								<Local>
+									<EffectSlot Name="" ID="{295074BA-578C-4E05-B87D-FFA7E8A50E50}" ShortID="120824431"/>
+								</Local>
+							</Reference>
+							<Reference>
+								<Local>
+									<EffectSlot Name="" ID="{35E74FEC-8FC2-40E9-9189-AB5F4FB66156}" ShortID="377123548"/>
+								</Local>
+							</Reference>
+							<Reference>
+								<Local>
+									<EffectSlot Name="" ID="{DA5F213F-11E2-4310-978F-4036F28E1701}" ShortID="631855882">
+										<ReferenceList>
+											<Reference Name="Effect" PluginName="Mastering Suite" CompanyID="0" PluginID="186" PluginType="3">
+												<ObjectRef Name="HomeCinema" ID="{F9951DC8-664E-4B07-81CF-61716236F00A}" WorkUnitID="{0D1C409E-A735-471E-A538-63B18D993BE9}"/>
+											</Reference>
+										</ReferenceList>
+									</EffectSlot>
+								</Local>
+							</Reference>
+						</ObjectList>
+					</ObjectLists>
+				</AudioDevice>
+				<AudioDevice Name="No_Output" ID="{5866239B-1A32-4F53-833A-06DB8718E0DF}" PluginName="No Output" CompanyID="0" PluginID="181" PluginType="7"/>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioDevices>
+</WwiseDocument>

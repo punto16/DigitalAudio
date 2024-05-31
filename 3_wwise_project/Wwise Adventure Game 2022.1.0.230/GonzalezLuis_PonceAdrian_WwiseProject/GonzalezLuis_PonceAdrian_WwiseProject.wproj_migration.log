@@ -1,0 +1,61 @@
+Project migration to XML Schema (XSD) version 111 is completed.
+Project migration to XML Schema (XSD) version 112 is completed.
+Project migration to XML Schema (XSD) version 113 is completed.
+Project migration to XML Schema (XSD) version 114 is completed.
+Project migration to XML Schema (XSD) version 115 is completed.
+Project migration to XML Schema (XSD) version 116 is completed.
+Project migration to XML Schema (XSD) version 117 is completed.
+Project migration to XML Schema (XSD) version 118 is completed.
+Project migration to XML Schema (XSD) version 119 is completed.
+The Plug-in 'Wwise Convolution Reverb' was not found for '\Effects\Default Work Unit\Reverbs\WAG_Desert'. Edition and playback won't be available for this object.
+'\Effects\Default Work Unit\Reverbs\WAG_Desert' uses the audio effect plugin 'Wwise Convolution Reverb', which is not installed.
+The Plug-in 'Wwise Convolution Reverb' was not found for '\Effects\Default Work Unit\Reverbs\WAG_DLC_Room'. Edition and playback won't be available for this object.
+'\Effects\Default Work Unit\Reverbs\WAG_DLC_Room' uses the audio effect plugin 'Wwise Convolution Reverb', which is not installed.
+The Plug-in 'Mastering Suite' was not found for '\Effects\Factory Mastering Suite\Off'. Edition and playback won't be available for this object.
+'\Effects\Factory Mastering Suite\Off' uses the audio effect plugin 'Mastering Suite', which is not installed.
+The Plug-in 'Mastering Suite' was not found for '\Effects\Factory Mastering Suite\TV'. Edition and playback won't be available for this object.
+'\Effects\Factory Mastering Suite\TV' uses the audio effect plugin 'Mastering Suite', which is not installed.
+The Plug-in 'Mastering Suite' was not found for '\Effects\Factory Mastering Suite\HomeCinema'. Edition and playback won't be available for this object.
+'\Effects\Factory Mastering Suite\HomeCinema' uses the audio effect plugin 'Mastering Suite', which is not installed.
+The Plug-in 'Mastering Suite' was not found for '\Effects\Factory Mastering Suite\Headphones'. Edition and playback won't be available for this object.
+'\Effects\Factory Mastering Suite\Headphones' uses the audio effect plugin 'Mastering Suite', which is not installed.
+The Plug-in 'Mastering Suite' was not found for '\Effects\Factory Mastering Suite\SoundBar'. Edition and playback won't be available for this object.
+'\Effects\Factory Mastering Suite\SoundBar' uses the audio effect plugin 'Mastering Suite', which is not installed.
+The Plug-in 'Mastering Suite' was not found for '\Effects\Factory Mastering Suite\NightMode'. Edition and playback won't be available for this object.
+'\Effects\Factory Mastering Suite\NightMode' uses the audio effect plugin 'Mastering Suite', which is not installed.
+The curve range of one or more of the Reflect Effect curves of '\Effects\Factory Reflect\Wwise_Reflect' was adjusted.
+The Plug-in 'Wwise Convolution Reverb' was not found for '\Presets\Default Work Unit\PineForest'. Edition and playback won't be available for this object.
+'\Presets\Default Work Unit\PineForest' uses the audio effect plugin 'Wwise Convolution Reverb', which is not installed.
+Work Unit '\Virtual Acoustics\Factory Reflect Acoustic Textures' has a unique ID conflicting with the already loaded Work Unit '\Virtual Acoustics\Factory Acoustic Textures'. It has been assigned a new unique ID.
+Virtual Folder '\Virtual Acoustics\Factory Reflect Acoustic Textures\Textures' has a unique ID conflicting with the already loaded Virtual Folder '\Virtual Acoustics\Factory Acoustic Textures\Textures'. It has been assigned a new unique ID.
+Virtual Folder '\Virtual Acoustics\Factory Reflect Acoustic Textures\Textures' has a short ID that conflicts with the already loaded Virtual Folder '\Virtual Acoustics\Factory Acoustic Textures\Textures'.  A new short ID has been given to the object. IMPORTANT: Soundbanks must be regenerated.
+Acoustic Texture '\Virtual Acoustics\Factory Reflect Acoustic Textures\Textures\Wood' has a unique ID conflicting with the already loaded Acoustic Texture '\Virtual Acoustics\Factory Acoustic Textures\Textures\Wood_01'. It has been assigned a new unique ID.
+Acoustic Texture '\Virtual Acoustics\Factory Reflect Acoustic Textures\Textures\Tile' has a unique ID conflicting with the already loaded Acoustic Texture '\Virtual Acoustics\Factory Acoustic Textures\Textures\Tile_01'. It has been assigned a new unique ID.
+Acoustic Texture '\Virtual Acoustics\Factory Reflect Acoustic Textures\Textures\Carpet' has a unique ID conflicting with the already loaded Acoustic Texture '\Virtual Acoustics\Factory Acoustic Textures\Textures\Carpet_01'. It has been assigned a new unique ID.
+Acoustic Texture '\Virtual Acoustics\Factory Reflect Acoustic Textures\Textures\Brick' has a unique ID conflicting with the already loaded Acoustic Texture '\Virtual Acoustics\Factory Acoustic Textures\Textures\Brick_01'. It has been assigned a new unique ID.
+Acoustic Texture '\Virtual Acoustics\Factory Reflect Acoustic Textures\Textures\Mountain' has a unique ID conflicting with the already loaded Acoustic Texture '\Virtual Acoustics\Factory Acoustic Textures\Textures\Mountain_01'. It has been assigned a new unique ID.
+Acoustic Texture '\Virtual Acoustics\Factory Reflect Acoustic Textures\Textures\Wood_Bright' has a unique ID conflicting with the already loaded Acoustic Texture '\Virtual Acoustics\Factory Acoustic Textures\Textures\Wood_Bright_01'. It has been assigned a new unique ID.
+Acoustic Texture '\Virtual Acoustics\Factory Reflect Acoustic Textures\Textures\Wood_Deep' has a unique ID conflicting with the already loaded Acoustic Texture '\Virtual Acoustics\Factory Acoustic Textures\Textures\Wood_Deep_01'. It has been assigned a new unique ID.
+Acoustic Texture '\Virtual Acoustics\Factory Reflect Acoustic Textures\Textures\Drywall' has a unique ID conflicting with the already loaded Acoustic Texture '\Virtual Acoustics\Factory Acoustic Textures\Textures\Drywall_01'. It has been assigned a new unique ID.
+Acoustic Texture '\Virtual Acoustics\Factory Reflect Acoustic Textures\Textures\Anechoic' has a unique ID conflicting with the already loaded Acoustic Texture '\Virtual Acoustics\Factory Acoustic Textures\Textures\Anechoic_01'. It has been assigned a new unique ID.
+Acoustic Texture '\Virtual Acoustics\Factory Reflect Acoustic Textures\Textures\Concrete_01' has a unique ID conflicting with the already loaded Acoustic Texture '\Virtual Acoustics\Factory Acoustic Textures\Textures\Concrete'. It has been assigned a new unique ID.
+Acoustic Texture '\Virtual Acoustics\Factory Reflect Acoustic Textures\Textures\Fabric' has a unique ID conflicting with the already loaded Acoustic Texture '\Virtual Acoustics\Factory Acoustic Textures\Textures\Fabric_01'. It has been assigned a new unique ID.
+Acoustic Texture '\Virtual Acoustics\Factory Reflect Acoustic Textures\Textures\Acoustic_Banner_01' has a unique ID conflicting with the already loaded Acoustic Texture '\Virtual Acoustics\Factory Acoustic Textures\Textures\Acoustic_Banner'. It has been assigned a new unique ID.
+Acoustic Texture '\Virtual Acoustics\Factory Reflect Acoustic Textures\Textures\Cork_Tiles' has a unique ID conflicting with the already loaded Acoustic Texture '\Virtual Acoustics\Factory Acoustic Textures\Textures\Cork_Tiles_01'. It has been assigned a new unique ID.
+Acoustic Texture '\Virtual Acoustics\Factory Reflect Acoustic Textures\Textures\Curtains_01' has a unique ID conflicting with the already loaded Acoustic Texture '\Virtual Acoustics\Factory Acoustic Textures\Textures\Curtains'. It has been assigned a new unique ID.
+The Effect with the name 'Noise_Gate' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Effects\Factory iZotope Dynamics\Noise_Gate_01'.
+The Acoustic Texture with the name 'Fabric' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Virtual Acoustics\Factory Acoustic Textures\Textures\Fabric_01'.
+The Acoustic Texture with the name 'Curtains' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Virtual Acoustics\Factory Reflect Acoustic Textures\Textures\Curtains_01'.
+The Acoustic Texture with the name 'Concrete' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Virtual Acoustics\Factory Reflect Acoustic Textures\Textures\Concrete_01'.
+The Acoustic Texture with the name 'Acoustic_Banner' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Virtual Acoustics\Factory Reflect Acoustic Textures\Textures\Acoustic_Banner_01'.
+The Acoustic Texture with the name 'Cork_Tiles' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Virtual Acoustics\Factory Acoustic Textures\Textures\Cork_Tiles_01'.
+The Acoustic Texture with the name 'Tile' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Virtual Acoustics\Factory Acoustic Textures\Textures\Tile_01'.
+The Acoustic Texture with the name 'Carpet' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Virtual Acoustics\Factory Acoustic Textures\Textures\Carpet_01'.
+The Acoustic Texture with the name 'Brick' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Virtual Acoustics\Factory Acoustic Textures\Textures\Brick_01'.
+The Acoustic Texture with the name 'Mountain' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Virtual Acoustics\Factory Acoustic Textures\Textures\Mountain_01'.
+The Acoustic Texture with the name 'Wood_Deep' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Virtual Acoustics\Factory Acoustic Textures\Textures\Wood_Deep_01'.
+The Acoustic Texture with the name 'Drywall' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Virtual Acoustics\Factory Acoustic Textures\Textures\Drywall_01'.
+The Acoustic Texture with the name 'Wood_Bright' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Virtual Acoustics\Factory Acoustic Textures\Textures\Wood_Bright_01'.
+The Acoustic Texture with the name 'Anechoic' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Virtual Acoustics\Factory Acoustic Textures\Textures\Anechoic_01'.
+The Acoustic Texture with the name 'Wood' conflicts with an existing object or contains invalid characters. The object has been renamed to '\Virtual Acoustics\Factory Acoustic Textures\Textures\Wood_01'.
+Properties related to Platform(s) "'Android_High, Android_Low, Mac, iOS'" were detected and removed from project as they were unreferenced. This could happen if you migrated a project from a previous version where some platforms were disabled. Disabled platforms are unavailable as they are being replaced by custom platforms. If you wanted to keep information relative to disabled platforms, enable them before performing migration.
