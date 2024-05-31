@@ -38,6 +38,9 @@ State	ID	Name	State Group			Notes
 	930712164	Off	VoiceAttenuation			
 	1651971902	On	VoiceAttenuation			
 
+Custom State	ID	Name	State Group	Owner		Notes
+	965529497	On	VoiceAttenuation	\Actor-Mixer Hierarchy\Default Work Unit\World\NPCs\QuestGivers		
+
 Modulator LFO	ID	Name			Wwise Object Path	Notes
 	185131821	Modulator LFO (Custom)				
 
@@ -46,18 +49,18 @@ Metadata plug-ins	ID	Name	Type				Notes
 	2198414564	Same_As_MainMix	Wwise System Output Settings			
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	188686969	Pickup_PineCone	D:\repos\Github\DigitalAudio\3_wwise_project\todo\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_WwiseProject\.cache\Windows\SFX\Objects\Pickups\BAS_Pickup_PineCone_01_23F4D4FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Player\Player_Pickup\Pickup_ItemType\Pickup_PineCone		27246
-	270916331	Pickup_Key	D:\repos\Github\DigitalAudio\3_wwise_project\todo\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_WwiseProject\.cache\Windows\SFX\Objects\Pickups\BAS_Pickup_Key_01_89E8A5BE.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Player\Player_Pickup\Pickup_ItemType\Pickup_Key		57150
-	737856040	Pickup_Mushroom	D:\repos\Github\DigitalAudio\3_wwise_project\todo\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_WwiseProject\.cache\Windows\SFX\Objects\Pickups\BAS_Pickup_Mushroom_01_89E8A5BE.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Player\Player_Pickup\Pickup_ItemType\Pickup_Mushroom		21568
-	754818586	Pickup_WeaponType_Pickaxe	D:\repos\Github\DigitalAudio\3_wwise_project\todo\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_WwiseProject\.cache\Windows\SFX\Objects\Pickups\BAS_Pickup_WeaponType_Pickaxe_01_89E8A5BE.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Player\Player_Pickup\Pickup_WeaponType\Pickup_WeaponType_Pickaxe		61570
-	767754403	Pickup_CrystalShard	D:\repos\Github\DigitalAudio\3_wwise_project\todo\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_WwiseProject\.cache\Windows\SFX\Objects\Pickups\BAS_Pickup_Generic_05_89E8A5BE.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Player\Player_Pickup\Pickup_ItemType\Pickup_CrystalShard		50288
+	188686969	Pickup_PineCone	D:\Jenkins\ws\master\wpa-game\Wwise Project\.cache\Windows\SFX\Objects\Pickups\BAS_Pickup_PineCone_01_7C4108EC.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Player\Player_Pickup\Pickup_ItemType\Pickup_PineCone		27246
+	270916331	Pickup_Key	D:\Jenkins\ws\master\wpa-game\Wwise Project\.cache\Windows\SFX\Objects\Pickups\BAS_Pickup_Key_01_8374BCAA.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Player\Player_Pickup\Pickup_ItemType\Pickup_Key		57150
+	737856040	Pickup_Mushroom	D:\Jenkins\ws\master\wpa-game\Wwise Project\.cache\Windows\SFX\Objects\Pickups\BAS_Pickup_Mushroom_01_8374BCAA.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Player\Player_Pickup\Pickup_ItemType\Pickup_Mushroom		21568
+	754818586	Pickup_WeaponType_Pickaxe	D:\Jenkins\ws\master\wpa-game\Wwise Project\.cache\Windows\SFX\Objects\Pickups\BAS_Pickup_WeaponType_Pickaxe_01_8374BCAA.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Player\Player_Pickup\Pickup_WeaponType\Pickup_WeaponType_Pickaxe		61570
+	767754403	Pickup_CrystalShard	D:\Jenkins\ws\master\wpa-game\Wwise Project\.cache\Windows\SFX\Objects\Pickups\BAS_Pickup_Generic_05_8374BCAA.wem		\Actor-Mixer Hierarchy\Default Work Unit\World\Player\Player\Player_Pickup\Pickup_ItemType\Pickup_CrystalShard		50288
 
 Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
-	177080104	Wwizard_DialogueLine_Q4a_03	D:\repos\Github\DigitalAudio\3_wwise_project\todo\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_WwiseProject\.cache\Windows\Voices\English(US)\Wwizard_VoiceLine_Q4a_2_0A5F1157.wem	177080104.wem	\Actor-Mixer Hierarchy\Default Work Unit\World\NPCs\QuestGivers\Dialogue Wwizard\Wwizard_DialogueLine_Q4a_03	
-	239106325	Wwizard_DialogueLine_Q4a_01	D:\repos\Github\DigitalAudio\3_wwise_project\todo\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_WwiseProject\.cache\Windows\Voices\English(US)\Wwizard_VoiceLine_Q4a_1_E088022C.wem	239106325.wem	\Actor-Mixer Hierarchy\Default Work Unit\World\NPCs\QuestGivers\Dialogue Wwizard\Wwizard_DialogueLine_Q4a_01	
-	312874557	Blacksmith_DialogueLine_Q4b_01	D:\repos\Github\DigitalAudio\3_wwise_project\todo\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_WwiseProject\.cache\Windows\Voices\English(US)\Blacksmith_DialogueLine_Q4b_01_2E086F90.wem	312874557.wem	\Actor-Mixer Hierarchy\Default Work Unit\World\NPCs\QuestGivers\Dialogue Blacksmith\Blacksmith_DialogueLine_Q4b_01	
-	405742020	Wwizard_DialogueLine_Q4a_05	D:\repos\Github\DigitalAudio\3_wwise_project\todo\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_WwiseProject\.cache\Windows\Voices\English(US)\Wwizard_VoiceLine_Q4a_2_D06A162A.wem	405742020.wem	\Actor-Mixer Hierarchy\Default Work Unit\World\NPCs\QuestGivers\Dialogue Wwizard\Wwizard_DialogueLine_Q4a_05	
-	424173504	Wwizard_DialogueLine_Q4a_02	D:\repos\Github\DigitalAudio\3_wwise_project\todo\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_WwiseProject\.cache\Windows\Voices\English(US)\Wwizard_VoiceLine_Q4a_1_5595E0FF.wem	424173504.wem	\Actor-Mixer Hierarchy\Default Work Unit\World\NPCs\QuestGivers\Dialogue Wwizard\Wwizard_DialogueLine_Q4a_02	
-	503906180	Wwizard_DialogueLine_Q4a_04	D:\repos\Github\DigitalAudio\3_wwise_project\todo\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_WwiseProject\.cache\Windows\Voices\English(US)\Wwizard_VoiceLine_Q4a_2_38D8A04F.wem	503906180.wem	\Actor-Mixer Hierarchy\Default Work Unit\World\NPCs\QuestGivers\Dialogue Wwizard\Wwizard_DialogueLine_Q4a_04	
-	778893805	Wwizard_DialogueLine_Q4a_06	D:\repos\Github\DigitalAudio\3_wwise_project\todo\Wwise Adventure Game 2022.1.0.230\GonzalezLuis_PonceAdrian_WwiseProject\.cache\Windows\Voices\English(US)\Wwizard_VoiceLine_Q4a_3_63AFE6FA.wem	778893805.wem	\Actor-Mixer Hierarchy\Default Work Unit\World\NPCs\QuestGivers\Dialogue Wwizard\Wwizard_DialogueLine_Q4a_06	
+	177080104	Wwizard_DialogueLine_Q4a_03	D:\Jenkins\ws\master\wpa-game\Wwise Project\.cache\Windows\Voices\English(US)\Wwizard_VoiceLine_Q4a_2_A2EB1042.wem	177080104.wem	\Actor-Mixer Hierarchy\Default Work Unit\World\NPCs\QuestGivers\Dialogue Wwizard\Wwizard_DialogueLine_Q4a_03	
+	239106325	Wwizard_DialogueLine_Q4a_01	D:\Jenkins\ws\master\wpa-game\Wwise Project\.cache\Windows\Voices\English(US)\Wwizard_VoiceLine_Q4a_1_3D20DCCD.wem	239106325.wem	\Actor-Mixer Hierarchy\Default Work Unit\World\NPCs\QuestGivers\Dialogue Wwizard\Wwizard_DialogueLine_Q4a_01	
+	312874557	Blacksmith_DialogueLine_Q4b_01	D:\Jenkins\ws\master\wpa-game\Wwise Project\.cache\Windows\Voices\English(US)\Blacksmith_DialogueLine_Q4b_01_68BE3F05.wem	312874557.wem	\Actor-Mixer Hierarchy\Default Work Unit\World\NPCs\QuestGivers\Dialogue Blacksmith\Blacksmith_DialogueLine_Q4b_01	
+	405742020	Wwizard_DialogueLine_Q4a_05	D:\Jenkins\ws\master\wpa-game\Wwise Project\.cache\Windows\Voices\English(US)\Wwizard_VoiceLine_Q4a_2_E3BCC16E.wem	405742020.wem	\Actor-Mixer Hierarchy\Default Work Unit\World\NPCs\QuestGivers\Dialogue Wwizard\Wwizard_DialogueLine_Q4a_05	
+	424173504	Wwizard_DialogueLine_Q4a_02	D:\Jenkins\ws\master\wpa-game\Wwise Project\.cache\Windows\Voices\English(US)\Wwizard_VoiceLine_Q4a_1_BE1DD286.wem	424173504.wem	\Actor-Mixer Hierarchy\Default Work Unit\World\NPCs\QuestGivers\Dialogue Wwizard\Wwizard_DialogueLine_Q4a_02	
+	503906180	Wwizard_DialogueLine_Q4a_04	D:\Jenkins\ws\master\wpa-game\Wwise Project\.cache\Windows\Voices\English(US)\Wwizard_VoiceLine_Q4a_2_1A2BBBB3.wem	503906180.wem	\Actor-Mixer Hierarchy\Default Work Unit\World\NPCs\QuestGivers\Dialogue Wwizard\Wwizard_DialogueLine_Q4a_04	
+	778893805	Wwizard_DialogueLine_Q4a_06	D:\Jenkins\ws\master\wpa-game\Wwise Project\.cache\Windows\Voices\English(US)\Wwizard_VoiceLine_Q4a_3_D099AD66.wem	778893805.wem	\Actor-Mixer Hierarchy\Default Work Unit\World\NPCs\QuestGivers\Dialogue Wwizard\Wwizard_DialogueLine_Q4a_06	
 

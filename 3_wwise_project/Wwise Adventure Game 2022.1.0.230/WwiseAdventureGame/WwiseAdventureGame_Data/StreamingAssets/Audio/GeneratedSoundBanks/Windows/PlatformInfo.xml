@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PlatformInfo>
-	<Platform Name="Windows" BasePlatform="Windows" Generator="2023.1.0.8367"/>
+	<Platform Name="Windows" BasePlatform="Windows" Generator="2022.1.0.8070"/>
 	<RootPaths>
-		<ProjectRoot>../..</ProjectRoot>
-		<SourceFilesRoot>../../.cache/Windows</SourceFilesRoot>
+		<ProjectRoot>../../../Wwise Project</ProjectRoot>
+		<SourceFilesRoot>../../../Wwise Project/.cache/Windows</SourceFilesRoot>
 		<SoundBanksRoot>.</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>.</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>../../../Wwise Project/GeneratedSoundBanks/Windows</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DefaultAlign>16</DefaultAlign>
 	<Settings>
@@ -22,11 +22,11 @@
 		<GenerateAllBanksMetadata>true</GenerateAllBanksMetadata>
 		<GeneratePerBankMetadata>false</GeneratePerBankMetadata>
 		<UseSoundBankNames>true</UseSoundBankNames>
-		<AllowExceedingMaxSize>false</AllowExceedingMaxSize>
-		<MaxAttenuationInfo>false</MaxAttenuationInfo>
-		<EstimatedDurationInfo>false</EstimatedDurationInfo>
-		<PrintObjectGuid>false</PrintObjectGuid>
+		<AllowExceedingMaxSize>true</AllowExceedingMaxSize>
+		<MaxAttenuationInfo>true</MaxAttenuationInfo>
+		<EstimatedDurationInfo>true</EstimatedDurationInfo>
+		<PrintObjectGuid>true</PrintObjectGuid>
 		<PrintObjectPath>false</PrintObjectPath>
 	</Settings>
-	<FileHash>{FCFE0EC5-AEDD-E202-05C0-06638636EE46}</FileHash>
+	<FileHash>{22D3B1AD-CC9A-8F39-9301-15395C4714C5}</FileHash>
 </PlatformInfo>
